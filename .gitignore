@@ -1,0 +1,6 @@
+/.direnv
+/result
+/target
+/stable-npm.db
+/stable-npm.db-shm
+/stable-npm.db-wal
